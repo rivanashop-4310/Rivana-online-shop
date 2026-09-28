@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RIVANA</title>
+</head>
+<body>
+
+    <header>
+        <h1>RIVANA</h1>
+        <p>Trusted and Quality</p>
+    </header>
+
+    <main>
+        <h2>Welcome to RIVANA</h2>
+        <p>প্রিমিয়াম কালেকশন: বোরকা ও থ্রি পিস</p>
+        
+        <!-- পণ্যের ছোট বিবরণ -->
+        <p>আমাদের কাছে পাচ্ছেন আকর্ষণীয় ও মানসম্মত বোরকা এবং থ্রি পিস।</p>
+
+        <hr>
+
+        <!-- যোগাযোগের অংশ -->
+        <h3>অর্ডার বা যোগাযোগের জন্য</h3>
+        <p>ফোন নম্বর: <strong>০১৯xxxxxxxx</strong></p>
+        <p>পণ্য অর্ডার করতে আমাদের কল করুন অথবা হোয়াটসঅ্যাপে যোগাযোগ করুন।</p>
+    </main>
+
+</body>
+</html>
